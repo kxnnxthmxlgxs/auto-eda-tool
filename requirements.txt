@@ -1,3 +1,4 @@
 streamlit
-sweetviz
 pandas
+sweetviz
+setuptools
